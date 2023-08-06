@@ -3,6 +3,6 @@ Iniciar Proyecto
 
 Ejecutar 
 
--- npm i install
+-- npm i 
 
 -- nodemon app.js
